@@ -1,2 +1,0 @@
-class UsersnewController < ApplicationController
-end
